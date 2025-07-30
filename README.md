@@ -1,71 +1,53 @@
-# 👩🏻‍💻 Joao Pedro
+<h1 align="center">Olá, eu sou o João Pedro 👋</h1>
 
-**`Desenvolvedor FullStack`**
+<p align="center">🚀 Desenvolvedor Full Stack em formação | Apaixonado por tecnologia e inovação!</p>
 
-💻 Desenvolvedor Full Stack em formação
-🚀 Apaixonado por tecnologia, código limpo e aprendizado contínuo
-📚 Estudando HTML, CSS, JavaScript, Node.js e React
-📂 Compartilhando meus projetos, estudos e evolução por aqui
-📧 Aberto a colaborações e novas conexões!
+---
 
+### 🧠 Sobre mim
 
+- 🌱 Atualmente estou estudando **HTML, CSS, JavaScript, React, Node.js, MongoDB e Spring Boot**  
+- 🛠️ Buscando oportunidades para colocar meus conhecimentos em prática  
+- 💡 Curioso por boas práticas de código, arquitetura de software e soluções modernas  
+- 🎯 Meta atual: Criar projetos full stack para meu portfólio
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### 🚀 Tecnologias que estou aprendendo
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+</p>
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+---
 
+### 📊 Minhas Estatísticas no GitHub
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jotap-stack&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotap-stack&layout=compact&theme=github_dark" />
+</div>
 
+---
 
-<br/>
-<br/>
+### 📈 Visitantes do perfil
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jotap-stack&color=blue&style=flat" alt="Visualizações do perfil" />
+</p>
+
+---
+
+### 📬 Entre em contato comigo
+
+<p>
+  <a href="mailto:jpleite948@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
