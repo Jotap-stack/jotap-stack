@@ -26,6 +26,16 @@
 
 ---
 
+### 💻 Projeto em Andamento
+
+#### DevTasks
+- 🛠️ Tecnologias: HTML, CSS, JavaScript, React
+- 🔗 Status: Em desenvolvimento
+- 📌 Descrição: Aplicativo de gerenciamento de tarefas, feito para praticar desenvolvimento Full Stack.
+- 🌐 Link: [Ver projeto no GitHub](https://github.com/Jotap-stack/DevTasks)
+
+---
+
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
