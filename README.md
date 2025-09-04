@@ -6,7 +6,7 @@
 
 ### 🧠 Sobre mim
 
-- 🌱 Atualmente estou estudando **HTML, CSS, JavaScript, React, Node.js, MongoDB e Spring Boot**  
+- 🌱 Atualmente estou estudando **HTML, CSS, JavaScript, React, Node.js e MongoDB**  
 - 🛠️ Buscando oportunidades para colocar meus conhecimentos em prática  
 - 💡 Curioso por boas práticas de código, arquitetura de software e soluções modernas  
 - 🎯 Meta atual: Criar projetos full stack para meu portfólio
